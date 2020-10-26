@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/roboclan/static/css/main.50711cda.chunk.css",
+    "main.js": "/roboclan/static/js/main.be7274d7.chunk.js",
+    "main.js.map": "/roboclan/static/js/main.be7274d7.chunk.js.map",
+    "runtime-main.js": "/roboclan/static/js/runtime-main.751e3e0f.js",
+    "runtime-main.js.map": "/roboclan/static/js/runtime-main.751e3e0f.js.map",
+    "static/css/2.2bb1e00b.chunk.css": "/roboclan/static/css/2.2bb1e00b.chunk.css",
+    "static/js/2.d595a623.chunk.js": "/roboclan/static/js/2.d595a623.chunk.js",
+    "static/js/2.d595a623.chunk.js.map": "/roboclan/static/js/2.d595a623.chunk.js.map",
+    "static/js/3.df84e96c.chunk.js": "/roboclan/static/js/3.df84e96c.chunk.js",
+    "static/js/3.df84e96c.chunk.js.map": "/roboclan/static/js/3.df84e96c.chunk.js.map",
+    "index.html": "/roboclan/index.html",
+    "static/css/2.2bb1e00b.chunk.css.map": "/roboclan/static/css/2.2bb1e00b.chunk.css.map",
+    "static/css/main.50711cda.chunk.css.map": "/roboclan/static/css/main.50711cda.chunk.css.map",
+    "static/js/2.d595a623.chunk.js.LICENSE.txt": "/roboclan/static/js/2.d595a623.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboclan/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.751e3e0f.js",
+    "static/css/2.2bb1e00b.chunk.css",
+    "static/js/2.d595a623.chunk.js",
+    "static/css/main.50711cda.chunk.css",
+    "static/js/main.be7274d7.chunk.js"
+  ]
+}
